@@ -7,7 +7,17 @@ body {
   align-items: center;
   /* padding-top: 40px; */
   /* padding-bottom: 40px; */
-  background-color: #f5f5f5;
+  background-color: lightcoral;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: gray;
+  color: white;
+  text-align: center;
 }
 
 .footer {
